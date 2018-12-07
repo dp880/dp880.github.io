@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on David Perry</title>
+    <link>https://dp880.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on David Perry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 07 Dec 2018 14:30:49 -0500</lastBuildDate>
+    
+	<atom:link href="https://dp880.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UI Driven Android Application Reduction</title>
+      <link>https://dp880.github.io/publication/ui-driven-android-application-reduction/</link>
+      <pubDate>Fri, 07 Dec 2018 14:30:49 -0500</pubDate>
+      
+      <guid>https://dp880.github.io/publication/ui-driven-android-application-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Array Constraints in Symbolic Execution</title>
+      <link>https://dp880.github.io/publication/accelerating-array-constraints-in-symbolic-execution/</link>
+      <pubDate>Fri, 07 Dec 2018 14:27:34 -0500</pubDate>
+      
+      <guid>https://dp880.github.io/publication/accelerating-array-constraints-in-symbolic-execution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apex: Automatic Programming Assignment Error Explanation</title>
+      <link>https://dp880.github.io/publication/apex-automatic-programming-assignment-error-explanation/</link>
+      <pubDate>Fri, 07 Dec 2018 14:18:08 -0500</pubDate>
+      
+      <guid>https://dp880.github.io/publication/apex-automatic-programming-assignment-error-explanation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
